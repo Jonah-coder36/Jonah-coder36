@@ -2,8 +2,9 @@
 <h2>👨‍💻 Software Development Project:</h2>
 
 - <b>Professional Foundations Practice </b>
-  - [Praciting Trash Tracker App](https://www.canva.com/design/DAGlwBmq4GY/a2EoAeHtaxi6djXb_SnChg/edit?utm_content=DAGlwBmq4GY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-  - [Presentation For Trash Tracker App](https://youtu.be/zQ6ProfawA0?si=ZpDH0s_xlcUoT0oa)
+ - [Professional Foundation Project](https://github.com/Jonah-coder36/Professional-Foundations)
+  - [Practicing Trash Tracker App](https://www.canva.com/design/DAGlwBmq4GY/a2EoAeHtaxi6djXb_SnChg/edit?utm_content=DAGlwBmq4GY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+ 
   
 <h2> 🤳 Connect with me:</h2>
 
